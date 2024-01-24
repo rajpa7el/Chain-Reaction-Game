@@ -1,7 +1,7 @@
 # chain_reaction_app
 
 A new Flutter project: 
- Chain Reaction APP
+ Chain Reaction Game App
 
 ## Getting Started
 
